@@ -4,11 +4,13 @@
 We recommend creating different files:
 
 <br>
+
 - Electronic_BOM.csv: table containing all the integrated circuits(IC) 
+
 <br>
 
 | Reference | Quantity  | Description | Manufacturer  |MPN| manufacturer_1  |MPN_2| manufacturer_3  |MPN_4|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 | Arduino Mega 2560  | 1  | 	Microcontroller board   | - | - | - | - | - |	- |	
 | Driver Motor A4988  | 4  | 	Driver for stepper motors  | - | - | - | - | - |	- |	
 | CNC Shield | 1  | 	Shield for arduino   | - | - | - | - | - |	- |	
