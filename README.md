@@ -1,6 +1,13 @@
 # Micro Manipulator
 
-We are "Peru team". We want to build an open source micromanipulator which can be used in a microscope. Among the typical applications of this equipment is the microinjection of cells.
+We are "Peru team". We want to build an open source micromanipulator. 
+
+# Background 
+This equipment lets the user to manipulate things in a microscopic level. Common uses include cell manipulation and is also quite common in reproductive biology for Intracytoplasmic Sperm Injection (ICSI)
+
+# Commercial micromanipulators
+
+
 
 
 
