@@ -5,9 +5,10 @@
 <br>
 
 1. getting started:
- - a brief overview of the equipment people are about to build and what kind of knowledge they are expected to have (soldering, programming). Also, is this safe for amateurs/kids? Is it a one person build? How much time does it take on average to build it?
- - Could you add contact information (email, forum, twitter handle) for people to reach out in case something goes wrong?
-
+  A micromanipulator is an equipment that allows the user to manipulate things in a microscopic level. Here we show how to build an open source micromanipulator from scratch. In order to accomplis this, you will need to know basic electronics, how to program an Arduino, basic 3D printing skills. 
+  This is safe for amateurs although we do not recommend it for kids since a needle will be involved in the process and kids might get hurt. One person can perfectly build this equipment by him/herself. 
+  Average time to build: --- 
+In case something goes wrong, please do not hesitate in contacting us at dulce.alarcon@upch.pe and jean.tincopa@upch.pe
 <br>
 
 2. List of materials needed:
