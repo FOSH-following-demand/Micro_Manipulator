@@ -1,6 +1,30 @@
 ## notes for the calls:
 
-Call on June 4th 
+### Call on June 14th
+
+Note taker: Andre
+
+Hectic week, international travels, master thesis defense! So this project was left a bit to the side (understandably so!).
+Still the team has made progress. and shared it during the call.
+
+The prototype is complete! 
+There is a problem with the stability of the Z axis, it vibrates when operated.
+
+Suggestions: 
+- build an U shaped part and put on top of Z axis,
+- build triangularshapes and fix then to the side of the profile.
+
+Another issue, there is soee wobble in the wheel/profile junction.  
+
+Suggestions:
+- use springs to keep the junction under tension.
+
+For next week:
+- Wednesday June 19Th
+Step by step guide on documentation.
+
+### Call on June 4th 
+
 Note taker: Andre
 
 Paypal transfer takes 5 working days, so the transfer will only be available tomorrow.
