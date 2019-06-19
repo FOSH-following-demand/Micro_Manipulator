@@ -25,6 +25,9 @@ En la siguiente imagen podemos ver todas las piezas:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2029..jpeg)
 
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2030..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2031..jpeg)
 
 
 Construyendo el Eje X:
