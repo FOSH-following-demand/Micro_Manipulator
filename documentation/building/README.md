@@ -1,6 +1,6 @@
 # Instrucciones de Construccion (Español)
 
-Construcción del Eje X:
+Construyendo el Eje X:
 
 Piezas necesarias:
 
@@ -16,6 +16,8 @@ Piezas necesarias:
 En la siguiente imagen podemos ver todas las piezas:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.1.jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2024..jpeg)
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%202..jpeg)
 
