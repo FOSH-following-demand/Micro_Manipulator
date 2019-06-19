@@ -1,6 +1,6 @@
 ## Assembly Instructions / Instrucciones de Armado (English / Español) ##
 
-**1. Building the X axis / Construyendo el plato del eje X:**
+**1. Building the X axis plate / Construyendo el plato del eje X:**
 
 Mechanical parts / Piezas mecanicas:
 
@@ -13,31 +13,31 @@ Mechanical parts / Piezas mecanicas:
 - Base of the X axis  / Base del eje X
 - Y axis support      / Soporte del eje Y 
 
-En la siguiente imagen podemos ver todas las piezas:
+In the following figure, we can see all the needed parts/ En la siguiente imagen podemos ver todas las piezas:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2025.jpeg)
 
-Primero tomamos uno de los tornillos M5 de 30mm y lo colocamos en la rueda de nylon
+First, we take M5x30mm bolts and put it in the nylon wheel / Primero tomamos uno de los tornillos M5 de 30mm y lo colocamos en la rueda de nylon
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2026..jpeg)
 
-Usamos la tuerca para ajustarlo 
+We adjust it with the nut/ Usamos la tuerca para ajustarlo 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2027..jpeg)
 
-Tomamos uno de los cilindros impresos y lo colamos luego de la tuerca
+We take the printed cylinders and put it after the nut / Tomamos uno de los cilindros impresos y lo colocamos luego de la tuerca
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2028..jpeg)
 
-Luego ingresamos esta pieza dentro de uno de los agujeros de la base del eje X
+Then, we insert this piece inside one of the wholes of the base of the X axis / Luego ingresamos esta pieza dentro de uno de los agujeros de la base del eje X
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2029..jpeg)
 
-Repetimos lo mismo para las 4 ruedas y las colocamos en la base del eje X
+We repeat the last step for the 4 wheels and put them in the base of the X axis / Repetimos lo mismo para las 4 ruedas y las colocamos en la base del eje X
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2030..jpeg)
 
-Finalmente colocamos los dos tornillos M3 de 25mm y los colocamos en los agujeros centrales de la base y ajustamos con sus tuercas
+Finally, we put two M3x25mm bolts and put them in the wholes located at the center of the X axis and adjust them with their respective nuts / Finalmente colocamos los dos tornillos M3 de 25mm y los colocamos en los agujeros centrales de la base y ajustamos con sus tuercas
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2031..jpeg)
 
