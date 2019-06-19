@@ -1,4 +1,4 @@
-## Assembly Instructions / Instrucciones de Armado (Ingles / Español) ##
+## Assembly Instructions / Instrucciones de Armado (English / Español) ##
 
 **1. Building the X axis / Construyendo el plato del eje X:**
 
