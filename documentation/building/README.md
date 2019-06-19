@@ -6,7 +6,7 @@ Mechanical parts / Piezas mecanicas:
 
 - 23mm nylon wheel - 4 pieces               / Ruedas de nylon de 23mm - 4 piezas
 - M5x30mm - 4 pieces (Bolt and hammer nut)  / M5x30mm - 4 piezas (Perno y tuerca martillo) 
-- M3x25mm - 2 pieces (Bolt and hammer nut)  / M3x25mm - 2 piezas (Perno y tuerca)           /
+- M3x25mm - 2 pieces (Bolt and hammer nut)  / M3x25mm - 2 piezas (Perno y tuerca)          
 
 3D printed parts / Piezas impresas en 3D:
 - 4 cylinders         / cilindros 
