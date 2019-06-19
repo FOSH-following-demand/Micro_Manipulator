@@ -138,18 +138,34 @@ Ingresamos la polea entre las piezas y ajustamos con un tornillo M5 de 30mm y su
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2019.jpeg)
 
+Introducimos la correa en la pieza impresa de ajuste de correa para doblarla y ajustarla con un cintillo
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2020..jpeg)
+
+Cortamos el sobrante del cintillo
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2021..jpeg)
 
+Introducimos la pieza de ajuste en la base del eje X
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2022..jpeg)
+
+Tomamos el otro extremo de la correa y lo pasamos por debajo y en medio de los perfiles para llevarla al otro extremo y la ingresamos en el otro lado de la base del eje X y de igual manera usamos un cintillo para ajustarlo
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/FIG25.jpeg)
 
+Buscamos que la correa este correctamente tensionada 
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.23..jpeg)
+
+Ahora colocamos la pieza de soporte del eje Y
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2032..jpeg)
 
+Hacemos encajar esta pieza sobre los tornillos M3 y los ajustamos con las tuercas correspondientes
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2033..jpeg)
+
+Corroboramos que todo el eje este completamente estable
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2034..jpeg)
