@@ -4,7 +4,7 @@
 
 Mechanical parts / Piezas mecanicas:
 
-- 23mm nylon wheel - 4 pieces               / Ruedas de nylon de 23mm - 4 piezas
+- 23mm nylon wheels - 4 pieces               / Ruedas de nylon de 23mm - 4 piezas
 - M5x30mm - 4 pieces (Bolt and hammer nut)  / M5x30mm - 4 piezas (Perno y tuerca martillo) 
 - M3x25mm - 2 pieces (Bolt and hammer nut)  / M3x25mm - 2 piezas (Perno y tuerca)          
 
@@ -17,11 +17,11 @@ In the following figure, we can see all the needed parts/ En la siguiente imagen
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2025.jpeg)
 
-First, we take M5x30mm bolts and put it in the nylon wheel / Primero tomamos uno de los tornillos M5 de 30mm y lo colocamos en la rueda de nylon
+First, we take one of the M5x30mm bolts and put it in a nylon wheel / Primero tomamos uno de los tornillos M5 de 30mm y lo colocamos en la rueda de nylon
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2026..jpeg)
 
-We adjust it with the nut/ Usamos la tuerca para ajustarlo 
+We adjust it with the nut / Usamos la tuerca para ajustarlo 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2027..jpeg)
 
@@ -42,7 +42,7 @@ Finally, we put two M3x25mm bolts and put them in the wholes located at the cent
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2031..jpeg)
 
 
-**2. Construyendo el Eje X:**
+**2. Building the X axis / Construyendo el Eje X:**
 
 Mechanical parts / Piezas Mecanicas:
 
@@ -55,7 +55,7 @@ Mechanical parts / Piezas Mecanicas:
 - M5x10mm - 8 pieces (Bolt and hammer nut) / M5x10mm 8 piezas (Perno y tuerca martillo)
 - M5x30mm - 2 pieces (Bolt and hammer nut) / M5x30mm 2 piezas (Perno y tuerca martillo)
 
-En la siguiente imagen podemos ver las piezas mecanicas:
+In the following figure, we can see the mechanical pieces / En la siguiente imagen podemos ver las piezas mecanicas:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.1.jpeg)
 
@@ -66,63 +66,63 @@ En la siguiente imagen podemos ver las piezas mecanicas:
 - Right adjuster pulley and profile / Encaje polea y perfil derecho
 - Left adjuster pulley and profile / Encaje polea y perfil izquierdo
 
-En la siguiente imagen podemos ver las piezas impresas en 3D:
+In the following figure, we can see the 3D printed pieces /En la siguiente imagen podemos ver las piezas impresas en 3D:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2024..jpeg)
 
-Empezamos poniendo los 4 perfiles de 30cm en fila y los otros 2 de 25cm debajo y colocamos la tuerca martillo en uno de los perfiles del extremo 
+We begin by putting four 30cm-profiles in a row and two other profiles of 25 cm. underneath, we put the hammer nut at the profile located at the end as shown in the figure / Empezamos poniendo los 4 perfiles de 30cm en fila y los otros 2 de 25cm debajo y colocamos la tuerca martillo en uno de los perfiles del extremo como se muestra en la figura
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%202..jpeg)
 
-Ajustamos la tuerca en conjunto con el angulo y un tornillo M5 de 10mm 
+We adjust the nut alongside the angle and one M5 bolt of 10 mm. / AAjustamos la tuerca en conjunto con el angulo y un tornillo M5 de 10mm 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%203..jpeg)
 
-De igual manera ajustamos con otro tornillo M5 de 10mm la otra parte del angulo (Si el tornillo no llega a ajustar bien se puede colocar algun material delgado debajo del mismo para que pueda calzar)
+We repeat the last step with another M5 bolt (10 mm) in the other side of the angle / De igual manera ajustamos con otro tornillo M5 de 10mm la otra parte del angulo (Si el tornillo no llega a ajustar bien se puede colocar algun material delgado debajo del mismo para que pueda calzar)
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.4..jpeg)
 
-Incrustamos la pieza impresa en 3D diseñada para soportar el motor NEMA 17 en uno de los tornillos M5 de 30mm colocado dentro del perfil
+Then, we put the 3D printed piece designed to give support to NEMA 17 motor in one of the M5 bolts (30 mm) located inside the profile / Incrustamos la pieza impresa en 3D diseñada para soportar el motor NEMA 17 en uno de los tornillos M5 de 30mm colocado dentro del perfil
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%206..jpeg)
 
-Ajustamos la pieza con una tuerca de M5
+We adjust the piece with a M5 nut / Ajustamos la pieza con una tuerca de M5
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/FIG5.jpeg)
 
-Usamos otro tornillo para reajustar la pieza con el perfil 
+we use another bolt to readjust the piece with the profile / Usamos otro tornillo para reajustar la pieza con el perfil 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.7..jpeg)
 
-Colocamos el motor dentro de la pieza y usamos los tornillos correspondientes para ajustarlo
+We put the motor inside the piiece and use the corresponding bolts to adjust it / Colocamos el motor dentro de la pieza y usamos los tornillos correspondientes para ajustarlo
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.8..jpeg)
 
-Verificamos que todas las piezas esten correctamente alineadas
+We check that all the pieces are correctly aligned / Verificamos que todas las piezas esten correctamente alineadas
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.9..jpeg)
 
-Antes de ajustar el otro extremo de los perfiles ingresamos el plato del eje X 
+Before adjusting the profiles of the other extreme, we insert the plate of the X axis / Antes de ajustar el otro extremo de los perfiles ingresamos el plato del eje X 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.10..jpeg)
 
-Repetimos los pasos de ajuste del angulo con el perfil y los tornillos M5
+We repeat the steps of the adjustment of the angle with the profile and the M5 bolts / Repetimos los pasos de ajuste del angulo con el perfil y los tornillos M5
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.11..jpeg)
 
-Buscamos que este alineado ambos lados del perfil 
+We make sure that both sides of the profile are aligned / Buscamos que este alineado ambos lados del perfil 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.12..jpeg)
 
-De igual manera si el tornillo no llega a ajustar bien se puede colocar algun material delgado debajo del mismo para que pueda calzar
+If the bolt does not fit properly, a thin material can be inserted underneath to mae sure it fits properly / De igual manera si el tornillo no llega a ajustar bien se puede colocar algun material delgado debajo del mismo para que pueda calzar
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.13.jpeg)
 
-Verificamos que los 4 angulos esten correctamente colocados
+We verify that the four angles are correctly located / Verificamos que los 4 angulos esten correctamente colocados
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.14..jpeg)
 
-Colocamos las tuercas martillo en los perfiles para colocar las piezas que soportan la polea
+Then, we put the hammer nuts in the profiles to put the pieces that support the polley / Colocamos las tuercas martillo en los perfiles para colocar las piezas que soportan la polea
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.15..jpeg)
 
