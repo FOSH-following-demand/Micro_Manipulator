@@ -35,6 +35,24 @@ En la siguiente imagen podemos ver todas las piezas:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.9..jpeg)
 
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.10..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.11..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.12..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.13..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.14..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.15..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.16..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.17..jpeg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.18..jpeg)
+
 
 
 
