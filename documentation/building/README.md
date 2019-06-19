@@ -1,6 +1,6 @@
-# Instrucciones de Construccion (Español)
+## Instrucciones de Construccion (Español) ##
 
-Construyendo el plato del eje X:
+**Construyendo el plato del eje X:**
 
 Piezas mecanicas:
 
@@ -30,7 +30,7 @@ En la siguiente imagen podemos ver todas las piezas:
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2031..jpeg)
 
 
-Construyendo el Eje X:
+**Construyendo el Eje X:**
 
 Piezas Mecanicas:
 
