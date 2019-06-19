@@ -1,17 +1,17 @@
-## Instrucciones de Construccion (Español) ##
+## Assembly Instructions / Instrucciones de Armado (Ingles / Español) ##
 
-**1. Construyendo el plato del eje X:**
+**1. Building the X axis / Construyendo el plato del eje X:**
 
-Piezas mecanicas:
+Mechanical parts / Piezas mecanicas:
 
-- 23mm nylon wheel - 4 piezas
-- M5x30mm - 4 piezas (Perno y tuerca martillo)
-- M3x25mm - 2 piezas (Perno y tuerca)
+- 23mm nylon wheel - 4 pieces               / Ruedas de nylon de 23mm - 4 piezas
+- M5x30mm - 4 pieces (Bolt and hammer nut)  / M5x30mm - 4 piezas (Perno y tuerca martillo) 
+- M3x25mm - 2 pieces (Bolt and hammer nut)  / M3x25mm - 2 piezas (Perno y tuerca)           /
 
-Piezas impresas en 3D:
-- 4 cilindros 
-- Base del eje X
-- Soporte del eje Y
+3D printed parts / Piezas impresas en 3D:
+- 4 cylinders         / cilindros 
+- Base of the X axis  / Base del eje X
+- Y axis support      / Soporte del eje Y 
 
 En la siguiente imagen podemos ver todas las piezas:
 
@@ -44,27 +44,27 @@ Finalmente colocamos los dos tornillos M3 de 25mm y los colocamos en los agujero
 
 **2. Construyendo el Eje X:**
 
-Piezas Mecanicas:
+Mechanical parts / Piezas Mecanicas:
 
-- 6 perfiles T-SLOT (2 de 30cm y 4 de 25cm)
-- 1 Motor paso a paso NEMA 17
-- 1 correa de faja de 50cm
-- 1 polea
-- 4 angulos para perfiles
-- M3x10mm - 2 piezas (Perno y tuerca martillo)
-- M5x10mm - 8 piezas (Perno y tuerca martillo)
-- M5x30mm - 2 piezas (Perno y tuerca martillo)
+- 6 aluminium profiles T-SLOT ( 2 of 25cm size and 4 of 30cm size) /  6 perfiles T-SLOT (2 de 25cm y 4 de 30cm)
+- 1 NEMA 17 stepper motor / 1 Motor paso a paso NEMA 17
+- 1 belt of 50cm / correa de faja de 50cm
+- 1 timing pulley / polea
+- 4 angles for profiles / 4 angulos para perfiles
+- M3x10mm - 2 pieces (Bolt and hammer nut) / M3x10mm 2 piezas (Perno y tuerca martillo)
+- M5x10mm - 8 pieces (Bolt and hammer nut) / M5x10mm 8 piezas (Perno y tuerca martillo)
+- M5x30mm - 2 pieces (Bolt and hammer nut) / M5x30mm 2 piezas (Perno y tuerca martillo)
 
 En la siguiente imagen podemos ver las piezas mecanicas:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.1.jpeg)
 
-Piezas impresas en 3D:
+3D printed parts / Piezas impresas en 3D:
 
-- Soporte para motor
-- Ajuste para correa
-- Encaje polea perfil derecho
-- Encaje polea perfil izquierdo
+- Motor support / Soporte para motor
+- Fit for belt / Ajuste para correa
+- Right adjuster pulley and profile / Encaje polea y perfil derecho
+- Left adjuster pulley and profile / Encaje polea y perfil izquierdo
 
 En la siguiente imagen podemos ver las piezas impresas en 3D:
 
