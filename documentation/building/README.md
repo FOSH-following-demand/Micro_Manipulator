@@ -19,19 +19,19 @@ En la siguiente imagen podemos ver todas las piezas:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%202..jpeg)
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.3.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%203..jpeg)
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.4.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%204..jpeg)
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.5.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%205..jpeg)
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.6.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%206..jpeg)
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.7.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%207..jpeg)
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.8.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%208..jpeg)
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.9.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%209..jpeg)
 
 
 
