@@ -6,7 +6,7 @@ Piezas mecanicas:
 
 - 23mm nylon wheel - 4 piezas
 - M5x30mm - 4 piezas (Perno y tuerca martillo)
-- M3x10mm - 2 piezas (Perno y tuerca)
+- M3x25mm - 2 piezas (Perno y tuerca)
 
 Piezas impresas en 3D:
 - 4 cilindros 
@@ -17,15 +17,27 @@ En la siguiente imagen podemos ver todas las piezas:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2025.jpeg)
 
+Primero tomamos uno de los tornillos M5 de 30mm y lo colocamos en la rueda de nylon
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2026..jpeg)
+
+Usamos la tuerca para ajustarlo 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2027..jpeg)
 
+Tomamos uno de los cilindros impresos y lo colamos luego de la tuerca
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2028..jpeg)
+
+Luego ingresamos esta pieza dentro de uno de los agujeros de la base del eje X
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2029..jpeg)
 
+Repetimos lo mismo para las 4 ruedas y las colocamos en la base del eje X
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2030..jpeg)
+
+Finalmente colocamos los dos tornillos M3 de 25mm y los colocamos en los agujeros centrales de la base y ajustamos con sus tuercas
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2031..jpeg)
 
