@@ -21,7 +21,7 @@ First, we take one of the M5x30mm bolts and put it in a nylon wheel / Primero to
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2026..jpeg)
 
-We adjust it with the nut / Usamos la tuerca para ajustarlo 
+We adjust it with its corresponding nut / Usamos la tuerca para ajustarlo 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2027..jpeg)
 
@@ -66,7 +66,7 @@ In the following figure, we can see the mechanical pieces / En la siguiente imag
 - Right adjuster pulley and profile / Encaje polea y perfil derecho
 - Left adjuster pulley and profile / Encaje polea y perfil izquierdo
 
-In the following figure, we can see the 3D printed pieces /En la siguiente imagen podemos ver las piezas impresas en 3D:
+In the following figure, we can see the 3D printed pieces / En la siguiente imagen podemos ver las piezas impresas en 3D:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2024..jpeg)
 
@@ -74,7 +74,7 @@ We begin by putting four 30cm-profiles in a row and two other profiles of 25 cm.
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%202..jpeg)
 
-We adjust the nut alongside the angle and one M5 bolt of 10 mm. / AAjustamos la tuerca en conjunto con el angulo y un tornillo M5 de 10mm 
+We adjust the nut alongside the angle and one M5 bolt of 10 mm. / Ajustamos la tuerca en conjunto con el angulo y un tornillo M5 de 10mm 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%203..jpeg)
 
@@ -90,11 +90,11 @@ We adjust the piece with a M5 nut / Ajustamos la pieza con una tuerca de M5
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/FIG5.jpeg)
 
-we use another bolt to readjust the piece with the profile / Usamos otro tornillo para reajustar la pieza con el perfil 
+We use another bolt to readjust the piece with the profile / Usamos otro tornillo para reajustar la pieza con el perfil 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.7..jpeg)
 
-We put the motor inside the piiece and use the corresponding bolts to adjust it / Colocamos el motor dentro de la pieza y usamos los tornillos correspondientes para ajustarlo
+We put the motor inside the piece and use the corresponding bolts to adjust it / Colocamos el motor dentro de la pieza y usamos los tornillos correspondientes para ajustarlo
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.8..jpeg)
 
@@ -122,50 +122,50 @@ We verify that the four angles are correctly located / Verificamos que los 4 ang
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.14..jpeg)
 
-Then, we put the hammer nuts in the profiles to put the pieces that support the polley / Colocamos las tuercas martillo en los perfiles para colocar las piezas que soportan la polea
+Then, we put the hammer nuts in the profiles in order to put the pieces that support the pulley / Colocamos las tuercas martillo en los perfiles para colocar las piezas que soportan la polea
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.15..jpeg)
 
-Para ello usamos tornillos M5 de 10mm
+For this, the M5 bolts (10 mm) / Para ello usamos tornillos M5 de 10mm
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.16..jpeg)
 
-Colocamos ambas piezas y alineamos los perfiles
+We put both pieces and align the profiles / Colocamos ambas piezas y alineamos los perfiles
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.17..jpeg)
 
-Ingresamos la polea entre las piezas y ajustamos con un tornillo M5 de 30mm y su tuerca
+We insert the pulley between the pieces and adjust with a M5 bolt and its corresponding nut / Ingresamos la polea entre las piezas y ajustamos con un tornillo M5 de 30mm y su tuerca
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2019.jpeg)
 
-Introducimos la correa en la pieza impresa de ajuste de correa para doblarla y ajustarla con un cintillo
+Introduce the belt in the printed adjusment piece and fizate it with a safety strap / Introducimos la correa en la pieza impresa de ajuste de correa para doblarla y ajustarla con un cintillo
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2020..jpeg)
 
-Cortamos el sobrante del cintillo
+Cut the remaining unused part of the remaining strap / Cortamos el sobrante del cintillo
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2021..jpeg)
 
-Introducimos la pieza de ajuste en la base del eje X
+Introduce the adjusment piece in the base of the X ais / Introducimos la pieza de ajuste en la base del eje X
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2022..jpeg)
 
-Tomamos el otro extremo de la correa y lo pasamos por debajo y en medio de los perfiles para llevarla al otro extremo y la ingresamos en el otro lado de la base del eje X y de igual manera usamos un cintillo para ajustarlo
+Tae the other extrem of the belt and pass it underneath and in between the profiles in order to take it to the other extreme and introduce it at the other side of the X axis base. Use a safety strap to adjust it / Tomamos el otro extremo de la correa y lo pasamos por debajo y en medio de los perfiles para llevarla al otro extremo y la ingresamos en el otro lado de la base del eje X y de igual manera usamos un cintillo para ajustarlo
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/FIG25.jpeg)
 
-Buscamos que la correa este correctamente tensionada 
+Check that the belt is correctly tensioned / Buscamos que la correa este correctamente tensionada 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.23..jpeg)
 
-Ahora colocamos la pieza de soporte del eje Y
+Now, put the supporting piece of the Y axis / Ahora colocamos la pieza de soporte del eje Y
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2032..jpeg)
 
-Hacemos encajar esta pieza sobre los tornillos M3 y los ajustamos con las tuercas correspondientes
+Make sure this piece fits over the M3 bolts an adjust them with their corresponding nuts / Hacemos encajar esta pieza sobre los tornillos M3 y los ajustamos con las tuercas correspondientes
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2033..jpeg)
 
-Corroboramos que todo el eje este completamente estable
+Make sure the axis is completely stable / Corroboramos que todo el eje este completamente estable
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2034..jpeg)
