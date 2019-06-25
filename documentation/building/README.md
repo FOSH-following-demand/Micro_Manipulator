@@ -40,6 +40,8 @@ we introduce the 2 profiles in the nuts that protrude from the plate
 we adjust the screws from the other side of the nylon wheels
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_04_3.jpg)
 
+
+
 **2. Building the X and Y axis:**
 
 Mechanical parts:
@@ -141,6 +143,7 @@ Full view until now
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_23.jpg)
 
 
+
 **3. Building the Y axis plate:**
 
 Take the M5x30mm bolts and put it in a nylon wheel and adjust it with its corresponding nut
@@ -203,6 +206,8 @@ full view with the 2 complete axes
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_38.jpg)
 
+
+
 **4. Building the Z axis:**
 
 
@@ -231,6 +236,9 @@ full view with the 2 complete axes
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42_6.jpg)
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_43.jpg)
+
+
+**5. Adapting the needle with the servo:**
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_44.jpg)
 
