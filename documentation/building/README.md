@@ -73,14 +73,17 @@ We adjust the nut alongside the angle and repeat the last step with other nut in
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_06.jpg)
 
+Now we must align this piece with 2 profiles of 25cm and adjust them with bolts
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_07.jpg)
+
+we adjust with nuts
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_08.jpg)
 
 we use a 3d printed profile separator and put the bolt with the hammer nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_09.jpg)
-
 
 introduce this profile separator between the two profiles
 
@@ -98,33 +101,36 @@ Then, we enter the plate of the X axis previously assembled on the rail of profi
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_13.jpg)
 
+we will use now, the 3d printed left and right belt adjuster with nuts
 
-
----
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_14.jpg)
 
---
+We put both in the 2 profiles, adjusting them with nuts
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_15.jpg)
 
---
+then we enter the pulley and place it with the M5
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_16.jpg)
 
----
+Now we go to the other side of the profiles and place the 3d printed motor support
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_17.jpg)
 
---
+then we place the motor and adjust with its respective bolt
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_18.jpg)
 
+we put the pulley timing to the engine
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_19.jpg)
 
-
-For this, the M5 bolts (10 mm)
+Now we place the timing belt and adjust on both sides with a cable tie
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_20.jpg)
 
-We put both pieces and align the profiles 
+now we turn the equipment and use a profile separator between the other two profiles to align the profiles 
+
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_21.jpg)
 
