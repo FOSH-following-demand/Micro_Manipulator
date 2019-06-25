@@ -1,5 +1,5 @@
 ## Assembly Instructions (English) ##
-( Versión en Español aquí)
+( Versión en Español [aquí](https://github.com/FOSH-following-demand/Micro_Manipulator))
 
 **1. Building the X axis plate:**
 
@@ -51,16 +51,12 @@ Mechanical parts:
 - M5x10mm - 8 pieces (Bolt and hammer nut) 
 - M5x30mm - 2 pieces (Bolt and hammer nut) 
 
-In the following figure, we can see the mechanical pieces 
-
 3D printed parts:
 
 - Motor support 
 - Fit for belt 
 - Right adjuster pulley and profile 
 - Left adjuster pulley and profile 
-
-In the following figure, we can see the 3D printed pieces:
 
 We begin by putting one of the 30cm-profiles and put the hammer nut with one of the angles as shown in the figure
 
