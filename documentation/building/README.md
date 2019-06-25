@@ -91,37 +91,28 @@ we turn the pieces and adjust with the nut
 
 Likewise, we repeat the steps for the other side of the profile
 
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_12.jpg)
 
 Then, we enter the plate of the X axis previously assembled on the rail of profile X
 
-
-
-We check that all the pieces are correctly aligned 
-
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_12.jpg)
-
-Before adjusting the profiles of the other extreme, we insert the plate of the X axis 
-
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_13.jpg)
 
-We repeat the steps of the adjustment of the angle with the profile and the M5 bolts 
 
+
+---
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_14.jpg)
 
-Now, we take the right and left adjuster pulley and introduce M5 bolts and nuts
+--
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_15.jpg)
 
-If the bolt does not fit properly, a thin material can be inserted underneath to mae sure it fits properly 
-
+--
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_16.jpg)
 
-We verify that the four angles are correctly located
-
+---
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_17.jpg)
 
-Then, we put the hammer nuts in the profiles in order to put the pieces that support the pulley 
-
+--
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_18.jpg)
 
 
