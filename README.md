@@ -44,5 +44,5 @@ This equipment lets the user manipulate things in a microscopic level. Common us
 
 # Demo
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/eaM0OVvJmCg/0.jpg)](http://www.youtube.com/watch?v=v=eaM0OVvJmCg)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/eaM0OVvJmCg/0.jpg)](https://www.youtube.com/watch?v=eaM0OVvJmCg)
 
