@@ -55,7 +55,7 @@ Mechanical parts:
 
 In the following figure, we can see the mechanical pieces 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.1.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_05.jpg)
 
 3D printed parts:
 
@@ -66,59 +66,59 @@ In the following figure, we can see the mechanical pieces
 
 In the following figure, we can see the 3D printed pieces:
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2024..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_06.jpg)
 
 We begin by putting one of the 30cm-profiles and put the hammer nut with one of the angles as shown in the figure
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_05.jpg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_07.jpg)
 
 We adjust the nut alongside the angle and repeat the last step with other nut in the other extreme of the profiles and adjust with a M5
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_06.jpg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_08.jpg)
 
 We use M5 bolt (10 mm) in the other side of the angle
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_07.jpg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_09.jpg)
 
 Then, we put the 3D printed piece designed to give support to NEMA 17 motor in one of the M5 bolts (30 mm) located inside the profile
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%206..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_10.jpg)
 
 We adjust the piece with a M5 nut 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/FIG5.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_11.jpg)
 
 We use another bolt to readjust the piece with the profile  
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.7..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_12.jpg)
 
 We put the motor inside the piece and use the corresponding bolts to adjust it 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.8..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_13.jpg)
 
 We check that all the pieces are correctly aligned 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.9..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_14.jpg)
 
 Before adjusting the profiles of the other extreme, we insert the plate of the X axis 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.10..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_15.jpg)
 
 We repeat the steps of the adjustment of the angle with the profile and the M5 bolts 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.11..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_16.jpg)
 
 We make sure that both sides of the profile are aligned 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.12..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_17.jpg)
 
 If the bolt does not fit properly, a thin material can be inserted underneath to mae sure it fits properly 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.13.jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_18.jpg)
 
 We verify that the four angles are correctly located
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.14..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_19.jpg)
 
 Then, we put the hammer nuts in the profiles in order to put the pieces that support the pulley 
 
