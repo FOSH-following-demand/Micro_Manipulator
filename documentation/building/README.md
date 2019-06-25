@@ -131,18 +131,13 @@ Now we place the timing belt and adjust on both sides with a cable tie
 
 now we turn the equipment and use a profile separator between the other two profiles to align the profiles 
 
-
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_21.jpg)
 
 We insert the pulley between the pieces and adjust with a M5 bolt and its corresponding nut 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_21.jpg)
-
-Introduce the belt in the printed adjusment piece and fizate it with a safety strap 
-
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_22.jpg)
 
-Cut the remaining unused part of the remaining strap 
+Introduce the belt in the printed adjusment piece and fizate it with a safety strap 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_23.jpg)
 
