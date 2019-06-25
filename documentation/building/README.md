@@ -30,14 +30,15 @@ Then, we insert this piece inside one of the wholes of the base of the X axis, a
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_03.jpg)
 
-We repeat the last step for the 4 wheels and put them in the base of the X axis
+We adjust it with his corresponding nut 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2030..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_04_0.jpg)
 
-Finally, we put two M3x25mm bolts and put them in the wholes located at the center of the X axis and adjust them with their respective nuts 
+we introduce the 2 profiles in the nuts that protrude from the plate
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_04_1.jpg)
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2031..jpeg)
-
+we adjust the screws from the other side of the nylon wheels
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_04_3.jpg)
 
 **2. Building the X axis:**
 
