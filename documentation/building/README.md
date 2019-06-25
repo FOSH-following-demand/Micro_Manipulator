@@ -290,3 +290,7 @@ we join this piece with the servo arm adjusting with its screw
 view of the servo attached to the servo
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_45.jpg)
+
+This how the 3 assembled axes look
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_Final_1.jpg)
