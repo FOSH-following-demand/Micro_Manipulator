@@ -26,9 +26,9 @@ We take the printed cylinders and put it after the nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_02.jpg)
 
-Then, we insert this piece inside one of the wholes of the base of the X axis 
+Then, we insert this piece inside one of the wholes of the base of the X axis, and repeat for the 4 wheels and put them in the base of the X axis
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2029..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_03.jpg)
 
 We repeat the last step for the 4 wheels and put them in the base of the X axis
 
