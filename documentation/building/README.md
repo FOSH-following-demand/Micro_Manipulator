@@ -121,7 +121,7 @@ then we place the motor and adjust with its respective bolt
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_18.jpg)
 
-we put the pulley timing to the engine
+we put the pulley timing to the motor
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_19.jpg)
 
@@ -133,16 +133,15 @@ now we turn the equipment and use a profile separator between the other two prof
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_21.jpg)
 
-We insert the pulley between the pieces and adjust with a M5 bolt and its corresponding nut 
+adjust with the corresponding nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_22.jpg)
 
-Introduce the belt in the printed adjusment piece and fizate it with a safety strap 
-
+Full view until now
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_23.jpg)
 
 
-**3. Building the X axis plate:**
+**3. Building the Y axis plate:**
 
 Take the M5x30mm bolts and put it in a nylon wheel and adjust it with its corresponding nut
 
@@ -156,26 +155,39 @@ Then, we insert this piece inside one of the wholes of the base of the Y axis pl
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_26.jpg)
 
-Now, put the supporting piece of the Y axis 
+adjust with the corresponding nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_27.jpg)
 
-Make sure this piece fits over the M3 bolts an adjust them with their corresponding nuts 
+top view of the plate
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_28.jpg)
 
-Make sure the axis is completely stable 
+Bottom view of the plate
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_29.jpg)
+
+as in previous steps we place the left and right belt adjuster with nuts
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_30.jpg)
 
+then we enter the pulley and place it with the M5
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_31.jpg)
+
+Then, we enter the plate of the Y axis previously assembled on the rail 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_32.jpg)
 
+Now we go to the other side of the profiles and place the 3d printed motor support
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_33.jpg)
 
+adjust with the corresponding nut
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_34.jpg)
+
+then we place the motor and adjust with its respective bolt
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_35.jpg)
 
