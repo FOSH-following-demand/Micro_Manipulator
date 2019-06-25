@@ -26,7 +26,7 @@ We take the printed cylinders and put it after the nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_02.jpg)
 
-Then, we insert this piece inside one of the wholes of the base of the X axis, and repeat for the 4 wheels and put them in the base of the X axis
+Then, we insert this piece inside one of the wholes of the base of the X axis plate, and repeat for the 4 wheels 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_03.jpg)
 
@@ -40,7 +40,7 @@ we introduce the 2 profiles in the nuts that protrude from the plate
 we adjust the screws from the other side of the nylon wheels
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_04_3.jpg)
 
-**2. Building the X axis:**
+**2. Building the X and Y axis:**
 
 Mechanical parts:
 
@@ -86,7 +86,8 @@ introduce this profile separator between the two profiles
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_10.jpg)
 
-we turn the pieces and adjust with the nut
+we turn the pieces and adjust with the bolt
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_11.jpg)
 
 Likewise, we repeat the steps for the other side of the profile
@@ -139,15 +140,18 @@ Cut the remaining unused part of the remaining strap
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_23.jpg)
 
-Introduce the adjusment piece in the base of the X ais
+
+**3. Building the X axis plate:**
+
+Take the M5x30mm bolts and put it in a nylon wheel and adjust it with its corresponding nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_24.jpg)
 
-Tae the other extrem of the belt and pass it underneath and in between the profiles in order to take it to the other extreme and introduce it at the other side of the X axis base. Use a safety strap to adjust it 
+We take the printed cylinders and put it after the nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_25.jpg)
 
-Check that the belt is correctly tensioned 
+Then, we insert this piece inside one of the wholes of the base of the Y axis plate , and repeat for the 4 wheels 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_26.jpg)
 
