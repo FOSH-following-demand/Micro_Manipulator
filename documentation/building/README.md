@@ -191,11 +191,20 @@ then we place the motor and adjust with its respective bolt
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_35.jpg)
 
+we put the pulley timing to the motor
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_36.jpg)
+
+Now we place the timing belt and adjust on both sides with a cable tie
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_37.jpg)
 
+full view with the 2 complete axes
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_38.jpg)
+
+**4. Building the Z axis:**
+
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_39.jpg)
 
