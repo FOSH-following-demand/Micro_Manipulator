@@ -1,5 +1,5 @@
 ## Assembly Instructions (English) ##
-( Instrucciones de Armado en Español aqui)
+( Versión en Español aquí)
 
 **1. Building the X axis plate:**
 
@@ -76,23 +76,23 @@ We adjust the nut alongside the angle and repeat the last step with other nut in
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_08.jpg)
 
-We use M5 bolt (10 mm) in the other side of the angle
+we use a 3d printed profile separator and put the bolt with the hammer nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_09.jpg)
 
-Then, we put the 3D printed piece designed to give support to NEMA 17 motor in one of the M5 bolts (30 mm) located inside the profile
+introduce this profile separator between the two profiles
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_10.jpg)
 
-We adjust the piece with a M5 nut 
+we turn the pieces and adjust with the nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_11.jpg)
 
-We use another bolt to readjust the piece with the profile  
+Likewise, we repeat the steps for the other side of the profile
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_12.jpg)
 
-We put the motor inside the piece and use the corresponding bolts to adjust it 
+Then, we enter the plate of the X axis previously assembled on the rail of profile X
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_13.jpg)
 
@@ -108,7 +108,7 @@ We repeat the steps of the adjustment of the angle with the profile and the M5 b
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_16.jpg)
 
-We make sure that both sides of the profile are aligned 
+Now, we take the right and left adjuster pulley and introduce M5 bolts and nuts
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_17.jpg)
 
