@@ -14,10 +14,6 @@ Mechanical parts:
 - Base of the X axis  
 - Y axis support     
 
-In the following figure, we can see all the needed parts:
-
-
-
 First, we take one of the M5x30mm bolts and put it in a nylon wheel and adjust it with its corresponding nut 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_01.jpg)
