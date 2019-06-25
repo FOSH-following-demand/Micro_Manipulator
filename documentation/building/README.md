@@ -16,19 +16,15 @@ Mechanical parts:
 
 In the following figure, we can see all the needed parts:
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2025.jpeg)
 
-First, we take one of the M5x30mm bolts and put it in a nylon wheel
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2026..jpeg)
+First, we take one of the M5x30mm bolts and put it in a nylon wheel and adjust it with its corresponding nut 
 
-We adjust it with its corresponding nut 
-
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2027..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_01.jpg)
 
 We take the printed cylinders and put it after the nut 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2028..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_02.jpg)
 
 Then, we insert this piece inside one of the wholes of the base of the X axis 
 
