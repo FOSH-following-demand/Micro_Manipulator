@@ -210,32 +210,59 @@ full view with the 2 complete axes
 
 **4. Building the Z axis:**
 
+we will use the lead screw with its mount, we adjust with its nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_39.jpg)
 
+we introduce the 2 bolts to hold the piece
+ 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_40.jpg)
+
+for this case we will use 6mm steel rods and linear rod bearing printed in 3D with this measure
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_41.jpg)
 
+We introduce the rods to the linear rod bearing
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_41_0.jpg)
+
+In the same way we have a piece printed in 3d to place a ball bearing
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42.jpg)
 
+Place the pieces to fit on both sides of the rod
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42_0.jpg)
+
+how the complete structure would look
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42_1.jpg)
 
+we introduce all this structure in a support piece that constitutes the z-axis
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42_2.jpg)
+
+we place the motor on the shaft
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42_3.jpg)
 
+we enter an 8mm screw
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42_4.jpg)
+
+we put a shaft coupling to join the motor with the screw
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42_5.jpg)
 
+once we have all the complete piece we join everything to the Y axis plate and adjust the nuts
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_42_6.jpg)
 
+full view of the Z axis
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_43.jpg)
+
+
 
 
 **5. Adapting the needle with the servo:**
