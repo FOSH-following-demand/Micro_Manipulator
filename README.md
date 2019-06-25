@@ -41,3 +41,8 @@ This equipment lets the user manipulate things in a microscopic level. Common us
 # Final version
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_Final_1.jpg)
+
+# Demo
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/eaM0OVvJmCg/0.jpg)](http://www.youtube.com/watch?v=v=eaM0OVvJmCg)
+
