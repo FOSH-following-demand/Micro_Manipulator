@@ -2,6 +2,8 @@
 
 We are "Peru team". We want to build an open source micromanipulator. 
 
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/gif1.gif)
+
 # Background 
 This equipment lets the user to manipulate things in a microscopic level. Common uses include cell manipulation and is also quite common in reproductive biology for Intracytoplasmic Sperm Injection (ICSI)
 
@@ -35,3 +37,7 @@ This equipment lets the user to manipulate things in a microscopic level. Common
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/1eje.jpg)
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/1eje2.jpg)
+
+# Final version
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_Final_1.jpg)
