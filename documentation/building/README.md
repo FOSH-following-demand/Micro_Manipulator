@@ -267,16 +267,26 @@ full view of the Z axis
 
 **5. Adapting the needle with the servo:**
 
+We use the servo support and we adjust it to the part that is attached to the lead screw
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_44.jpg)
+
+we enter the servo and adjust with their corresponding bolt
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_44_0.jpg)
 
+we put the servo arm and adjust
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_44_1.jpg)
+
+we have a piece printed in 3D designed for hoses of 3mm, which we enter and join the needle (with its lid placed for security)
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_44_2.jpg)
 
+we join this piece with the servo arm adjusting with its screw
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_44_3.jpg)
 
+view of the servo attached to the servo
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_45.jpg)
-
-
