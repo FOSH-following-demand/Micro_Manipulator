@@ -69,29 +69,32 @@ We begin by putting one of the 30cm-profiles and put the hammer nut with one of 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_05.jpg)
 
-We adjust the nut alongside the angle and repeat the last step with other nut in the other extreme of the profiles and adjust with a M5
+We adjust the nut alongside the angle and repeat the last step with other nut in the other extreme of the profiles and adjust with the corresponding bolt
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_06.jpg)
 
-we use a 3d printed profile separator and put the bolt with the hammer nut
-
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_07.jpg)
-
-introduce this profile separator between the two profiles
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_08.jpg)
 
-we turn the pieces and adjust with the nut
+we use a 3d printed profile separator and put the bolt with the hammer nut
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_09.jpg)
 
-Likewise, we repeat the steps for the other side of the profile
+
+introduce this profile separator between the two profiles
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_10.jpg)
 
+we turn the pieces and adjust with the nut
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_11.jpg)
+
+Likewise, we repeat the steps for the other side of the profile
+
+
 Then, we enter the plate of the X axis previously assembled on the rail of profile X
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_11.jpg)
+
 
 We check that all the pieces are correctly aligned 
 
