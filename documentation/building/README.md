@@ -68,17 +68,17 @@ In the following figure, we can see the 3D printed pieces:
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%2024..jpeg)
 
-We begin by putting four 30cm-profiles in a row and two other profiles of 25 cm. underneath, we put the hammer nut at the profile located at the end as shown in the figure
+We begin by putting one of the 30cm-profiles and put the hammer nut with one of the angles as shown in the figure
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%202..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_05.jpg)
 
-We adjust the nut alongside the angle and one M5 bolt of 10 mm
+We adjust the nut alongside the angle and repeat the last step with other nut in the other extreme of the profiles and adjust with a M5
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.%203..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_06.jpg)
 
-We repeat the last step with another M5 bolt (10 mm) in the other side of the angle
+We use M5 bolt (10 mm) in the other side of the angle
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Fig.4..jpeg)
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/Fig_07.jpg)
 
 Then, we put the 3D printed piece designed to give support to NEMA 17 motor in one of the M5 bolts (30 mm) located inside the profile
 
