@@ -51,4 +51,10 @@ This equipment lets the user manipulate things in a microscopic level. Common us
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/rROfGqbosEs/0.jpg)](https://www.youtube.com/watch?v=rROfGqbosEs)
 
+# App Tests
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/cam_mic.jpg)
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/cam_mic2.jpg)
+
 
