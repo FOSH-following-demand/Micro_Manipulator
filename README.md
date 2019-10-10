@@ -1,4 +1,12 @@
-# Micro Manipulator
+# Micro Manipulator v2.0
+
+Hi! we have a new design for the micromanipulator! check this out:
+
+
+
+
+
+# Micro Manipulator v1.0
 
 We are "Peru team". We want to build an open source micromanipulator. 
 
