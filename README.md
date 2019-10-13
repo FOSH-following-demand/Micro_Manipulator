@@ -2,40 +2,55 @@
 
 Hi! we have a new design for the micromanipulator! check this out:
 
-and with have a description of the new 3d printed parts
 
--Axis Base
+
+-Axis Base: This is the main component of each axis because it holds all other components.
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r2.png)
-
-Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_base.stl
+You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_base.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r1.png)
 
--Axis-Motor
+-Axis-Motor: It fixates the motor to the axis base
 
-Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_motor.stl
+You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_motor.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r3.png)
 
 
--AXI Tap
-Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_tap.stl
+-Axis TAP: The lid that closes the axis structure
+You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_tap.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r4.png)
-- Axis Bolt
 
-Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_a.stl
+-Axis Bolt A: One of the two pieces that when coupled turn rotational movement into linear one. 
+
+You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_a.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r5.png)
 
 
--
-Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_b.stl
+-Axis Bolt B: This piece complements axis bolt A to turn rotational movement into linear one 
+You can find the STL file here:: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_b.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r6.png)
 
-Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/prof_x.stl
+-Prof X: THis piece will let you fit the axis to the aluminium profile 
+You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/prof_x.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r7.png)
 
-Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_a.stl
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r8.png)
+Electronics:
 
-Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_b.stl
+Schematics here:
+
+
+Programming here: 
+
+
+
+Step by step [coming soon...]
+
+
+
+
+
+
+
+
 
 
 
