@@ -46,7 +46,7 @@ We are "Peru team". We want to build an open source micromanipulator.
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/gif1.gif) ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/documentation/building/Figures/gif2.gif)
 
 # Background 
-This equipment lets the user manipulate things in a microscopic level. Common uses include cell manipulation and is also quite common in reproductive biology for Intracytoplasmic Sperm Injection (ICSI)
+This equipment lets the user manipulate things in a microscopic level. Common uses include cell manipulation and is also quite common in reproductive biology for Intracytoplasmic Sperm Injection (ICSI)-
 
 # Commercial micromanipulators
 | Brand         | Code          |Origin             |  Name         | Notes - relevance | 
