@@ -2,6 +2,8 @@
 
 Hi! we have a new design for the micromanipulator! check this out:
 
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/render.png)
+
 
 
 -Axis Base: This is the main component of each axis because it holds all other components.
