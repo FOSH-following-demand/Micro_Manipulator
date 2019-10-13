@@ -4,21 +4,37 @@ Hi! we have a new design for the micromanipulator! check this out:
 
 and with have a description of the new 3d printed parts
 
+-Axis Base
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r2.png)
+
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_base.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r1.png)
+
+-Axis-Motor
+
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_motor.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r3.png)
+
+
+-AXI Tap
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_tap.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r4.png)
+- Axis Bolt
+
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_a.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r5.png)
+
+
+-
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_b.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r6.png)
+
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/prof_x.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r7.png)
+
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_a.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r8.png)
+
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_b.stl
 
 
