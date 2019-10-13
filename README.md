@@ -6,31 +6,38 @@ Hi! we have a new design for the micromanipulator! check this out:
 
 -Axis Base: This is the main component of each axis because it holds all other components.
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r2.png)
+
 You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_base.stl
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r1.png)
 
 -Axis-Motor: It fixates the motor to the axis base
 
 You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_motor.stl
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r3.png)
 
 
 -Axis TAP: The lid that closes the axis structure
 You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_tap.stl
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r4.png)
 
 -Axis Bolt A: One of the two pieces that when coupled turn rotational movement into linear one. 
 
 You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_a.stl
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r5.png)
 
 
 -Axis Bolt B: This piece complements axis bolt A to turn rotational movement into linear one 
 You can find the STL file here:: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_bolt_b.stl
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r6.png)
 
 -Prof X: THis piece will let you fit the axis to the aluminium profile 
 You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/prof_x.stl
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r7.png)
 
 Electronics:
