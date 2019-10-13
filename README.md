@@ -2,6 +2,8 @@
 
 Hi! we have a new design for the micromanipulator! check this out:
 
+and with have a description of the new 3d printed parts
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r2.png)
 Puedes encontrar este archivo STL aquí: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/axis_base.stl
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r1.png)
