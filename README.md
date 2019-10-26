@@ -5,6 +5,7 @@ Hi! we have a new design for the micromanipulator! check this out:
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/render.png)
 
 
+# 3D Printed parts
 
 -Axis Base: This is the main component of each axis because it holds all other components.
 
@@ -47,7 +48,9 @@ You can find the STL file here: https://github.com/FOSH-following-demand/Micro_M
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r7.png)
 
 You can find the STL files here:
+
 https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/z_jeringa_a.stl
+
 https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/z_jeringa_b.stl
 
 
