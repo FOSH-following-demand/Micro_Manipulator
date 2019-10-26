@@ -42,7 +42,16 @@ You can find the STL file here:: https://github.com/FOSH-following-demand/Micro_
 
 You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/prof_x.stl
 
+-Z needle A-B: Tthese symmetric pieces will let you fit the needle to the Z axis 
+
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r7.png)
+
+You can find the STL files here:
+https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/z_jeringa_a.stl
+https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/z_jeringa_b.stl
+
+
+
 
 Electronics:
 
