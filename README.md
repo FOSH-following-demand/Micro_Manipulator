@@ -59,6 +59,18 @@ https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/
 
 # Parts assembly
 
+- Building the Axis 
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/explo_render.png)
+
+
+- Joining the 3 axis with the aluminum profile
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/explo_render_2.png)
+
+- Placing the needle on the z axis
+
+![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/explo_render_3.png)
 
 
 Electronics:
