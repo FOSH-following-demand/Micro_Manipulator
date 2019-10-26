@@ -53,7 +53,9 @@ https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/
 
 https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/z_jeringa_b.stl
 
-#Parts assembly
+
+
+# Parts assembly
 
 - Building the Axis 
 
