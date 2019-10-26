@@ -43,7 +43,7 @@ You can find the STL file here:: https://github.com/FOSH-following-demand/Micro_
 
 You can find the STL file here: https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/mechanics/prof_x.stl
 
--Z needle A-B: Tthese symmetric pieces will let you fit the needle to the Z axis 
+-Z needle A-B: These symmetric pieces will let you fit the needle to the Z axis 
 
 ![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/r7.png)
 
@@ -59,18 +59,7 @@ https://github.com/FOSH-following-demand/Micro_Manipulator/blob/master/hardware/
 
 # Parts assembly
 
-- Building the Axis 
 
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/explo_render.png)
-
-
-- Joining the 3 axis with the aluminum profile
-
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/explo_render_2.png)
-
-- Placing the needle on the z axis
-
-![alt text](https://raw.githubusercontent.com/FOSH-following-demand/Micro_Manipulator/master/hardware/mechanics/explo_render_3.png)
 
 Electronics:
 
